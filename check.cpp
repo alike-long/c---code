@@ -6,5 +6,4 @@ int main(){
     int ans=0;
     if (n<25) ans+=n/5;
     cout<<ans;
-    "miaomiao";
 }
